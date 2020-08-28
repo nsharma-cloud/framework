@@ -10,7 +10,7 @@
 		<listener class-name="com.qa.hubspot.listeners.TestAllureListener" /> -->
 
 		<!-- <listener class-name="com.qa.hubspot.listeners.ScreenshotListener" /> -->
-
+<listener class-name="com.qa.hubspot.listeners.ExtentReportListener" />
 
 
 	</listeners>
