@@ -1,0 +1,242 @@
+# Created on 2020-08-28T17:57:01.289
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2020-08-28T17:57:02.541
+Unexpected IOException with stream: [
+
+# Created on 2020-08-28T17:57:02.542
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-28T17:57:02.543
+Unexpected IOException with stream: 5
+
+# Created on 2020-08-28T17:57:02.544
+Unexpected IOException with stream: 9
+
+# Created on 2020-08-28T17:57:02.545
+Unexpected IOException with stream: 8
+
+# Created on 2020-08-28T17:57:02.546
+Unexpected IOException with stream: 6
+
+# Created on 2020-08-28T17:57:02.547
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-28T17:57:02.548
+Unexpected IOException with stream: 7
+
+# Created on 2020-08-28T17:57:02.550
+Unexpected IOException with stream: 6
+
+# Created on 2020-08-28T17:57:02.551
+Unexpected IOException with stream: 2
+
+# Created on 2020-08-28T17:57:02.552
+Unexpected IOException with stream: 2
+
+# Created on 2020-08-28T17:57:02.552
+Unexpected IOException with stream: .
+
+# Created on 2020-08-28T17:57:02.554
+Unexpected IOException with stream: 5
+
+# Created on 2020-08-28T17:57:02.555
+Unexpected IOException with stream: 4
+
+# Created on 2020-08-28T17:57:02.556
+Unexpected IOException with stream: 0
+
+# Created on 2020-08-28T17:57:02.557
+Unexpected IOException with stream: ]
+
+# Created on 2020-08-28T17:57:02.558
+Unexpected IOException with stream: [
+
+# Created on 2020-08-28T17:57:02.559
+Unexpected IOException with stream: W
+
+# Created on 2020-08-28T17:57:02.560
+Unexpected IOException with stream: A
+
+# Created on 2020-08-28T17:57:02.561
+Unexpected IOException with stream: R
+
+# Created on 2020-08-28T17:57:02.562
+Unexpected IOException with stream: N
+
+# Created on 2020-08-28T17:57:02.563
+Unexpected IOException with stream: I
+
+# Created on 2020-08-28T17:57:02.564
+Unexpected IOException with stream: N
+
+# Created on 2020-08-28T17:57:02.566
+Unexpected IOException with stream: G
+
+# Created on 2020-08-28T17:57:02.567
+Unexpected IOException with stream: ]
+
+# Created on 2020-08-28T17:57:02.568
+Unexpected IOException with stream: :
+
+# Created on 2020-08-28T17:57:02.569
+Unexpected IOException with stream:  
+
+# Created on 2020-08-28T17:57:02.570
+Unexpected IOException with stream: T
+
+# Created on 2020-08-28T17:57:02.571
+Unexpected IOException with stream: i
+
+# Created on 2020-08-28T17:57:02.572
+Unexpected IOException with stream: m
+
+# Created on 2020-08-28T17:57:02.573
+Unexpected IOException with stream: e
+
+# Created on 2020-08-28T17:57:02.574
+Unexpected IOException with stream: d
+
+# Created on 2020-08-28T17:57:02.575
+Unexpected IOException with stream:  
+
+# Created on 2020-08-28T17:57:02.576
+Unexpected IOException with stream: o
+
+# Created on 2020-08-28T17:57:02.576
+Unexpected IOException with stream: u
+
+# Created on 2020-08-28T17:57:02.577
+Unexpected IOException with stream: t
+
+# Created on 2020-08-28T17:57:02.579
+Unexpected IOException with stream:  
+
+# Created on 2020-08-28T17:57:02.580
+Unexpected IOException with stream: c
+
+# Created on 2020-08-28T17:57:02.581
+Unexpected IOException with stream: o
+
+# Created on 2020-08-28T17:57:02.582
+Unexpected IOException with stream: n
+
+# Created on 2020-08-28T17:57:02.583
+Unexpected IOException with stream: n
+
+# Created on 2020-08-28T17:57:02.584
+Unexpected IOException with stream: e
+
+# Created on 2020-08-28T17:57:02.585
+Unexpected IOException with stream: c
+
+# Created on 2020-08-28T17:57:02.586
+Unexpected IOException with stream: t
+
+# Created on 2020-08-28T17:57:02.587
+Unexpected IOException with stream: i
+
+# Created on 2020-08-28T17:57:02.588
+Unexpected IOException with stream: n
+
+# Created on 2020-08-28T17:57:02.589
+Unexpected IOException with stream: g
+
+# Created on 2020-08-28T17:57:02.590
+Unexpected IOException with stream:  
+
+# Created on 2020-08-28T17:57:02.591
+Unexpected IOException with stream: t
+
+# Created on 2020-08-28T17:57:02.592
+Unexpected IOException with stream: o
+
+# Created on 2020-08-28T17:57:02.593
+Unexpected IOException with stream:  
+
+# Created on 2020-08-28T17:57:02.594
+Unexpected IOException with stream: C
+
+# Created on 2020-08-28T17:57:02.595
+Unexpected IOException with stream: h
+
+# Created on 2020-08-28T17:57:02.596
+Unexpected IOException with stream: r
+
+# Created on 2020-08-28T17:57:02.597
+Unexpected IOException with stream: o
+
+# Created on 2020-08-28T17:57:02.597
+Unexpected IOException with stream: m
+
+# Created on 2020-08-28T17:57:02.599
+Unexpected IOException with stream: e
+
+# Created on 2020-08-28T17:57:02.600
+Unexpected IOException with stream: ,
+
+# Created on 2020-08-28T17:57:02.601
+Unexpected IOException with stream:  
+
+# Created on 2020-08-28T17:57:02.602
+Unexpected IOException with stream: r
+
+# Created on 2020-08-28T17:57:02.603
+Unexpected IOException with stream: e
+
+# Created on 2020-08-28T17:57:02.603
+Unexpected IOException with stream: t
+
+# Created on 2020-08-28T17:57:02.604
+Unexpected IOException with stream: r
+
+# Created on 2020-08-28T17:57:02.605
+Unexpected IOException with stream: y
+
+# Created on 2020-08-28T17:57:02.606
+Unexpected IOException with stream: i
+
+# Created on 2020-08-28T17:57:02.607
+Unexpected IOException with stream: n
+
+# Created on 2020-08-28T17:57:02.608
+Unexpected IOException with stream: g
+
+# Created on 2020-08-28T17:57:02.609
+Unexpected IOException with stream: .
+
+# Created on 2020-08-28T17:57:02.610
+Unexpected IOException with stream: .
+
+# Created on 2020-08-28T17:57:02.611
+Unexpected IOException with stream: .
+
+# Created on 2020-08-28T17:57:02.612
+Unexpected IOException with stream: 
+
+# Created on 2020-08-28T17:57:02.613
+Unexpected IOException with stream: 
+
+
+# Created on 2020-08-28T17:57:10.615
+Unexpected IOException: 8,1,com.qa.hubspot.tests.LoginPageTest,setUp(com.qa.hubspot.tests.LoginPageTest),null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=84.0.4147.135)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-SNTAD9U'\002C ip: '9.102.53.245'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_241'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00A687E3+2852835]\000A\0009Ordinal0 [0x00955BB1+1727409]\000A\0009Ordinal0 [0x0082E362+516962]\000A\0009Ordinal0 [0x00827D82+490882]\000A\0009Ordinal0 [0x0082846B+492651]\000A\0009Ordinal0 [0x008293C5+496581]\000A\0009Ordinal0 [0x00824D64+478564]\000A\0009Ordinal0 [0x0082F300+520960]\000A\0009Ordinal0 [0x007DE489+189577]\000A\0009Ordinal0 [0x007DD7FD+186365]\000A\0009Ordinal0 [0x007DB70B+177931]\000A\0009Ordinal0 [0x007C2584+75140]\000A\0009Ordinal0 [0x007C3650+79440]\000A\0009Ordinal0 [0x007C35E9+79337]\000A\0009Ordinal0 [0x0096AD5C+1813852]\000A\0009GetHandleVerifier [0x00B8C616+1075574]\000A\0009GetHandleVerifier [0x00B8C367+1074887]\000A\0009GetHandleVerifier [0x00B97497+1120247]\000A\0009GetHandleVerifier [0x00B8CC16+1077110]\000A\0009Ordinal0 [0x00963206+1782278]\000A\0009Ordinal0 [0x0096C3BB+1819579]\000A\0009Ordinal0 [0x0096C523+1819939]\000A\0009Ordinal0 [0x00982B45+1911621]\000A\0009BaseThreadInitThunk [0x77346359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7BF4+180]\000A,null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=84.0.4147.135)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-SNTAD9U'\002C ip: '9.102.53.245'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_241'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00A687E3+2852835]\000A\0009Ordinal0 [0x00955BB1+1727409]\000A\0009Ordinal0 [0x0082E362+516962]\000A\0009Ordinal0 [0x00827D82+490882]\000A\0009Ordinal0 [0x0082846B+492651]\000A\0009Ordinal0 [0x008293C5+496581]\000A\0009Ordinal0 [0x00824D64+478564]\000A\0009Ordinal0 [0x0082F300+520960]\000A\0009Ordinal0 [0x007DE489+189577]\000A\0009Ordinal0 [0x007DD7FD+186365]\000A\0009Ordinal0 [0x007DB70B+177931]\000A\0009Ordinal0 [0x007C2584+75140]\000A\0009Ordinal0 [0x007C3650+79440]\000A\0009Ordinal0 [0x007C35E9+79337]\000A\0009Ordinal0 [0x0096AD5C+1813852]\000A\0009GetHandleVerifier [0x00B8C616+1075574]\000A\0009GetHandleVerifier [0x00B8C367+1074887]\000A\0009GetHandleVerifier [0x00B97497+1120247]\000A\0009GetHandleVerifier [0x00B8CC16+1077110]\000A\0009Ordinal0 [0x00963206+1782278]\000A\0009Ordinal0 [0x0096C3BB+1819579]\000A\0009Ordinal0 [0x0096C523+1819939]\000A\0009Ordinal0 [0x00982B45+1911621]\000A\0009BaseThreadInitThunk [0x77346359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7BF4+180]\000A,LoginPageTest.setUp:52 \00BB SessionNotCreated session not created\000Afrom chrome not...,org.openqa.selenium.SessionNotCreatedException: \000Asession not created\000Afrom chrome not reachable\000A  (Session info: chrome=84.0.4147.135)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-SNTAD9U'\002C ip: '9.102.53.245'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_241'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00A687E3+2852835]\000A\0009Ordinal0 [0x00955BB1+1727409]\000A\0009Ordinal0 [0x0082E362+516962]\000A\0009Ordinal0 [0x00827D82+490882]\000A\0009Ordinal0 [0x0082846B+492651]\000A\0009Ordinal0 [0x008293C5+496581]\000A\0009Ordinal0 [0x00824D64+478564]\000A\0009Ordinal0 [0x0082F300+520960]\000A\0009Ordinal0 [0x007DE489+189577]\000A\0009Ordinal0 [0x007DD7FD+186365]\000A\0009Ordinal0 [0x007DB70B+177931]\000A\0009Ordinal0 [0x007C2584+75140]\000A\0009Ordinal0 [0x007C3650+79440]\000A\0009Ordinal0 [0x007C35E9+79337]\000A\0009Ordinal0 [0x0096AD5C+1813852]\000A\0009GetHandleVerifier [0x00B8C616+1075574]\000A\0009GetHandleVerifier [0x00B8C367+1074887]\000A\0009GetHandleVerifier [0x00B97497+1120247]\000A\0009GetHandleVerifier [0x00B8CC16+1077110]\000A\0009Ordinal0 [0x00963206+1782278]\000A\0009Ordinal0 [0x0096C3BB+1819579]\000A\0009Ordinal0 [0x0096C523+1819939]\000A\0009Ordinal0 [0x00982B45+1911621]\000A\0009BaseThreadInitThunk [0x77346359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7BF4+180]\000A\000A\0009at com.qa.hubspot.tests.LoginPageTest.setUp(LoginPageTest.java:52)\000A
+
+
+# Created on 2020-08-28T17:57:10.654
+Unexpected IOException: 9,1,com.qa.hubspot.tests.LoginPageTest,verifyLoginPageTitleTest(com.qa.hubspot.tests.LoginPageTest),null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=84.0.4147.135)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-SNTAD9U'\002C ip: '9.102.53.245'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_241'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00A687E3+2852835]\000A\0009Ordinal0 [0x00955BB1+1727409]\000A\0009Ordinal0 [0x0082E362+516962]\000A\0009Ordinal0 [0x00827D82+490882]\000A\0009Ordinal0 [0x0082846B+492651]\000A\0009Ordinal0 [0x008293C5+496581]\000A\0009Ordinal0 [0x00824D64+478564]\000A\0009Ordinal0 [0x0082F300+520960]\000A\0009Ordinal0 [0x007DE489+189577]\000A\0009Ordinal0 [0x007DD7FD+186365]\000A\0009Ordinal0 [0x007DB70B+177931]\000A\0009Ordinal0 [0x007C2584+75140]\000A\0009Ordinal0 [0x007C3650+79440]\000A\0009Ordinal0 [0x007C35E9+79337]\000A\0009Ordinal0 [0x0096AD5C+1813852]\000A\0009GetHandleVerifier [0x00B8C616+1075574]\000A\0009GetHandleVerifier [0x00B8C367+1074887]\000A\0009GetHandleVerifier [0x00B97497+1120247]\000A\0009GetHandleVerifier [0x00B8CC16+1077110]\000A\0009Ordinal0 [0x00963206+1782278]\000A\0009Ordinal0 [0x0096C3BB+1819579]\000A\0009Ordinal0 [0x0096C523+1819939]\000A\0009Ordinal0 [0x00982B45+1911621]\000A\0009BaseThreadInitThunk [0x77346359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x774E7BF4+180]\000A,null
+
+
+# Created on 2020-08-28T17:57:10.670
+Unexpected IOException: 8,1,com.qa.hubspot.tests.LoginPageTest,tearDown(com.qa.hubspot.tests.LoginPageTest),null,null,null,null,LoginPageTest.tearDown:116 NullPointer,java.lang.NullPointerException\000A\0009at com.qa.hubspot.tests.LoginPageTest.tearDown(LoginPageTest.java:116)\000A
+
+
+# Created on 2020-08-28T17:57:10.967
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
